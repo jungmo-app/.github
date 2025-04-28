@@ -4,4 +4,5 @@
 
 ***
 ### ERD
-![jungmo-erd](https://github.com/user-attachments/assets/a9ba11b9-484b-4638-805d-a4f207584969)
+![image](https://github.com/user-attachments/assets/a58b2997-b473-447e-8109-430e7bbcaa92)
+
